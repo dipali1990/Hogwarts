@@ -1,0 +1,106 @@
+<LicenseData>
+  <LicenseXML>
+    <issued>2019-11-04 11:03:24.388 GMT</issued>
+    <clientName>Clearwell Systems</clientName>
+    <authorId>Dipali Kadoo (DIPALI.KADOO)</authorId>
+    <comment></comment>
+    <feature>
+      <name>ICEncryptionClearwellPublicKeyType</name>
+      <props>
+        <property name="CLEARWELL_PUBLICKEY" value="30820122300D06092A864886F70D01010105000382010F003082010A02820101008459ADB464A69EA17A2A33D4B06AA9A90CA52611CCA020CFFE984A87B412D4EC9C985E5B44F2B8161790E305E0C75C8D49B793AB60CB699261735D2648DE870DB804112F8F6D4685834BD7B934276FE338FD0753A2CBE6FEB4E440CCBD7E93F43DAE3228F09A62AC2B5F8209A7EC8628163477BAFE6882BEA0310C0C7E8DD7677B00187CDD4D1D0B7D32A357E626F9B408EB78C82FE2D2F789B8CF54C9D8024062DD5BBC178295A518FD27666A24B24D8A0C6A3E1B8901BD6D3524E065C18B579476CB126E37D72BBA14556884AF6244B9F7272D95EF7BC7EB116B378A22028ADBD3471BF9438DB137F80DDC088ABD09C85F2B52642F0DF3CC50ABF98FA3EA0B0203010001"/>
+      </props>
+    </feature>
+    <feature>
+      <name>ICDocumentumServerSourceType</name>
+    </feature>
+    <feature>
+      <name>ICExchangeServerSourceType</name>
+    </feature>
+    <feature>
+      <name>PreProcessing</name>
+    </feature>
+    <feature>
+      <name>ReviewMode</name>
+    </feature>
+    <feature>
+      <name>System</name>
+      <props>
+        <property name="cloneID" value="6404"/>
+        <property name="evalDays" value="-1"/>
+        <property name="expiry" value="1970-01-01 00:00:00.0 GMT"/>
+        <property name="serviceTag" value="QUIwRDJBNDItNTc3RC1BMjM3LTY0MUItRjE5MTczRjM1Qjcw"/>
+      </props>
+    </feature>
+    <feature>
+      <name>RRP</name>
+    </feature>
+    <feature>
+      <name>ICEVServerSourceType</name>
+    </feature>
+    <feature>
+      <name>ICEVCloudSourceType</name>
+    </feature>
+    <feature>
+      <name>ConcurrentUsers</name>
+      <props>
+        <property name="quota" value="-1"/>
+      </props>
+    </feature>
+    <feature>
+      <name>IndexByCapacity</name>
+      <props>
+        <property name="quota" value="1073741824000"/>
+      </props>
+    </feature>
+    <feature>
+      <name>ICDocushareServerSourceType</name>
+    </feature>
+    <feature>
+      <name>ICPCSourceType</name>
+    </feature>
+    <feature>
+      <name>ICIManageServerSourceType</name>
+    </feature>
+    <feature>
+      <name>LitHoldCustodians</name>
+      <props>
+        <property name="quota" value="500"/>
+      </props>
+    </feature>
+    <feature>
+      <name>ICFileServerSourceType</name>
+    </feature>
+    <feature>
+      <name>ICFileNetServerSourceType</name>
+    </feature>
+    <feature>
+      <name>LitHold</name>
+    </feature>
+    <feature>
+      <name>ICOnsiteSourceType</name>
+    </feature>
+    <feature>
+      <name>ICCM8ServerSourceType</name>
+    </feature>
+    <feature>
+      <name>ICLiveLinkServerSourceType</name>
+    </feature>
+    <feature>
+      <name>IC</name>
+    </feature>
+    <feature>
+      <name>ICCustodians</name>
+      <props>
+        <property name="quota" value="500"/>
+      </props>
+    </feature>
+    <feature>
+      <name>ICDominoServerSourceType</name>
+    </feature>
+    <feature>
+      <name>ICSharePointServerSourceType</name>
+    </feature>
+    <version>1.0</version>
+  </LicenseXML>
+  <LicenseSignature>b488c2f1546588766cbf717d962be987b7fef0d1211a46ebd19bedfbb751</LicenseSignature>
+</LicenseData>
