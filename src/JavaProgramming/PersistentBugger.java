@@ -3,7 +3,7 @@ package JavaProgramming;
 public class PersistentBugger {
 
 	public static void main(String[] args) {
-		long n=35;
+		long n=999;
 		long a;
         long b = 1;
         int x = 0; 
